@@ -1,4 +1,6 @@
 # financial-models
 ..
-Econometrics..
-Algos , ..trading
+Econometrics
+..
+
+
