@@ -1,7 +1,7 @@
 # financial-models
 ..
-Econometrics
+Econometric
 ..
-..
+
 
 
