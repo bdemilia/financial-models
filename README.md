@@ -1,6 +1,6 @@
 # financial-models
-..
-Econometric
+
+Econometric models
 ..
 
 
