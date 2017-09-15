@@ -1,6 +1,6 @@
 # financial-models
 
-Econometric analysis..  .
+Econometric analysis.. 
 
 
 
